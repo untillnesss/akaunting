@@ -113,6 +113,8 @@ return [
         'use_gravatar'                  => 'Usar Gravatar',
         'income_category'               => 'Categoria de renda',
         'expense_category'              => 'Categoria de despesa',
+        'address_format'                => 'Formato de endereço',
+        'address_tags'                  => '<strong>Tags disponíveis:</strong> :tags',
 
         'form_description' => [
             'general'                   => 'Selecione a conta padrão, o imposto e a forma de pagamento para criar registros rapidamente. O Painel e os Relatórios são exibidos na moeda padrão.',
